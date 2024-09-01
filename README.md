@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinawazp&label=Profile%20views&color=0e75b6&style=flat" alt="alinawazp" /> </p>
 
-- 🔭 I’m currently working on **ATHENA_L1_GBP_BANGLORE**
+- 🔭 I’m currently working on **Data_Analyst Banglore**
 
-- 🌱 I’m currently learning **DATA ANALYTICS AND MACHINE LEARNING**
+- 🌱 I’m currently learning **DEEP LEARNING**
 
-- 👯 I’m Interested in **DATA DOMAIN**
-  
-- 🤝 I’m looking for **DATA ANALYSIS Project**
+- 👯 I’m Interested in **RETAIL,HEALTH DOMAIN**
 
 - 📫 How to reach me **alinawaz6252@gmail.com**
 
