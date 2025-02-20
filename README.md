@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AliNawazp/AliNawazp/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Ali Nawaz</h1>
 <h3 align="center">A BIG DATA ENGINEER PASSIONATE FROM INDIA</h3>
 
