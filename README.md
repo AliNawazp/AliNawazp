@@ -1,9 +1,9 @@
 ![logo](https://github.com/AliNawazp/AliNawazp/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm ALI NAWAZ SHAIK</h1>
 <h3 align="center">A BIG DATA ENGINEER PASSIONATE FROM INDIA</h3>
-<img align="right"alt="Data Engineering"width="400"src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
+<img align="right"alt="Data Engineering"width="400"src="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alinawazp&label=Profile%20views&color=0e75b6&style=flat" alt="alinawazp" /> </p>
+<p align="left"> <img src="" alt="alinawazp" /> </p>
 
 - 🔭 I’m currently working on **Data_Engineer Banglore**
 
