@@ -1,15 +1,15 @@
 ![logo](https://github.com/AliNawazp/AliNawazp/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm ALI NAWAZ SHAIK</h1>
-<h3 align="center">A DATA SCIENCE PASSIONATE FROM INDIA</h3>
-<img align="right"alt="Data science"width="400"src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
+<h3 align="center">A BIG DATA ENGINEER PASSIONATE FROM INDIA</h3>
+<img align="right"alt="Data Engineering"width="400"src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinawazp&label=Profile%20views&color=0e75b6&style=flat" alt="alinawazp" /> </p>
 
-- 🔭 I’m currently working on **Data_Analyst Banglore**
+- 🔭 I’m currently working on **Data_Engineer Banglore**
 
-- 🌱 I’m currently learning **DEEP LEARNING**
+- 🌱 I’m currently learning **PySpark**
 
-- 👯 I’m Interested in **RETAIL,HEALTH DOMAIN**
+- 👯 I’m Interested in **RETAIL,HEALTH,BANKING DOMAIN**
 
 - 📫 How to reach me **alinawaz6252@gmail.com**
 
